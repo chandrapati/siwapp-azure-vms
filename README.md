@@ -1,5 +1,7 @@
 # Siwapp on Azure VMs - Deployment Package
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.siwapp-azure-vms&left_text=visitors)
+
 **Version:** 1.0  
 **Cloud Provider:** Microsoft Azure  
 **Infrastructure:** 8 Virtual Machines  
